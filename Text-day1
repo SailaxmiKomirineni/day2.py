@@ -1,4 +1,5 @@
-=> what is git hub?
+==>
+1. what is git hub?
 
 git hub is a cloud like repository to store files. To built a project we use git hub to store files.we can access those files from anywhere.
    1.we can also write documentation like how the code works, project goals. 
@@ -6,13 +7,14 @@ git hub is a cloud like repository to store files. To built a project we use git
    3.Developers can create branches on each fearture after all merge their changes to the main codebase.
    4.github provides a proper repository for storing and sharing code.
    5.we can make the repository private or public or restricted access to few authorised users.
-   6.it offers features for collaboration like 
+   6.it offers features for collaboration like
       a) issue tracking (debugging or suggest new features), 
       b) pull request (create pull request to propose changes in code)
       c) code reviews (review and discuss code changes with team members)
 
 
-=> What is python?
+==>
+2. What is python?
   
 Python is a High-level-programming language, interpreted and dynamically-typed programming language.
 
@@ -22,11 +24,13 @@ Python is a High-level-programming language, interpreted and dynamically-typed p
 High-level language is easily read and write human understanable language. which hides the complex details of computer hardware, memory management and low level operations.
 
 
-=>What is interpreted language?
+==>
+3. What is interpreted language?
 The code which execute line-by-line is interpreted. Python is interpreted.
 
 
-=>Is python a dynamically typed programming language or statically typed programming language?
+==>
+4. Is python a dynamically typed programming language or statically typed programming language?
 
 *Dynamically Typed Programming Language :-
        The language where the datatypes are initialized at run time to its variable.(no need to specify datatype in code)
@@ -36,12 +40,14 @@ The code which execute line-by-line is interpreted. Python is interpreted.
        EX:- c, c++, Typescript, Java.
 
 
-=> What is variable?
+==> 
+5. What is variable?
 
 variable is a container which stores values in it.
 
 
-=>Type conversion methods
+==> 
+6. Type conversion methods
 
 Type conversion:- conerting one data type to another data type is called Type conversion.
 a) integer  to  string
