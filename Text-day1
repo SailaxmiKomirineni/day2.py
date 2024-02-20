@@ -1,0 +1,58 @@
+=> what is git hub?
+
+git hub is a cloud like repository to store files. To built a project we use git hub to store files.we can access those files from anywhere.
+   1.we can also write documentation like how the code works, project goals. 
+   2.Developers can collaborate on a project and track changes to their code over time.
+   3.Developers can create branches on each fearture after all merge their changes to the main codebase.
+   4.github provides a proper repository for storing and sharing code.
+   5.we can make the repository private or public or restricted access to few authorised users.
+   6.it offers features for collaboration like 
+      a) issue tracking (debugging or suggest new features), 
+      b) pull request (create pull request to propose changes in code)
+      c) code reviews (review and discuss code changes with team members)
+
+
+=> What is python?
+  
+Python is a High-level-programming language, interpreted and dynamically-typed programming language.
+
+
+=>what is High-level-programming language:-
+
+High-level language is easily read and write human understanable language. which hides the complex details of computer hardware, memory management and low level operations.
+
+
+=>What is interpreted language?
+The code which execute line-by-line is interpreted. Python is interpreted.
+
+
+=>Is python a dynamically typed programming language or statically typed programming language?
+
+*Dynamically Typed Programming Language :-
+       The language where the datatypes are initialized at run time to its variable.(no need to specify datatype in code)
+       EX:- python, javascript.
+*Statically Typed Programming Language :-
+       The language where the datatypes are need to be specified before runtime (in code).
+       EX:- c, c++, Typescript, Java.
+
+
+=> What is variable?
+
+variable is a container which stores values in it.
+
+
+=>Type conversion methods
+
+Type conversion:- conerting one data type to another data type is called Type conversion.
+a) integer  to  string
+EX:-   a = 1
+       b = str(a)
+       print(type(b))   => "1"
+b) string to interger
+only numeric can be convert not alpha or characters
+EX:-   a = "2"
+       b = int(a)
+       print(type(b))   => "2"
+
+
+             
