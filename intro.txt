@@ -49,7 +49,7 @@ variable is a container which stores values in it.
 ==> 
 6. Type conversion methods
 
-Type conversion:- conerting one data type to another data type is called Type conversion.
+Type conversion:- converting one data type to another data type is called Type conversion.
 a) integer  to  string
 EX:-   a = 1
        b = str(a)
