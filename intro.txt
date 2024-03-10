@@ -60,5 +60,6 @@ EX:-   a = "2"
        b = int(a)
        print(type(b))   => "2"
 
-
+Leet code:-
+https://leetcode.com/problems/find-the-duplicate-number/description/
              
